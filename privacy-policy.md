@@ -105,15 +105,6 @@ Because we don't collect any data:
 
 You have complete privacy by default.
 
----
-
-## Contact Us
-
-If you have any questions about this privacy policy or TipWise, please contact us at:
-
-**Email:** [your-email@example.com]
-
-**Website:** [https://yourwebsite.com/tipwise]
 
 ---
 
